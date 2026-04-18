@@ -13,6 +13,11 @@
 <hr />
 
 ## Featured Work: [Misery](https://github.com/TenuredCLOUD/Misery)
+<p align="center">
+    <img src="https://github.com/TenuredCLOUD/Misery/blob/5bd3760486c5aafddca074dbba98186ce364859b/banners/Miserylogo2k.png#gh-light-mode-only" width="480">
+    <img src="https://github.com/TenuredCLOUD/Misery/blob/5bd3760486c5aafddca074dbba98186ce364859b/banners/Miserylogo2k.png#gh-dark-mode-only" width="480">
+</p>
+
 <div align="center">
   <a href="https://github.com/TenuredCLOUD/Misery">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TenuredCLOUD&repo=Misery&bg_color=1a1a1a&title_color=FF8C00&text_color=bcbcbc&icon_color=FF8C00&border_color=444444" alt="Misery" />
