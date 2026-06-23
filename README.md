@@ -43,7 +43,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/SQF-444444?style=for-the-badge&logo=arma&logoColor=FF8C00" />
   <img src="https://img.shields.io/badge/GNU_GPLv2-444444?style=for-the-badge&logo=gnu&logoColor=FF8C00" />
-  <img src="https://img.shields.io/badge/Arch_Linux-444444?style=for-the-badge&logo=arch-linux&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/Bazzite-444444?style=for-the-badge&logo=fedora&logoColor=FF8C00" />
 </div>
 
 ---
